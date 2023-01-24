@@ -49,6 +49,6 @@ python project.py
 
 ___
 ### **Thank you**:
-I want to thank **Professor Malan** and everyone who is on the **CS50P** team! I have had a deep passion for computer science every since I began the course; it is absolutely incredible that such resources are available online for anyone to learn. Harvard University is truly doing something remarkable for everyone across the globe, with their free open source courses. Thank you for this opportunity.
+I want to thank **Professor Malan** and everyone who is on the **CS50P** team! I have had a deep passion for computer science ever since I began the course; it is absolutely incredible that such resources are available online for anyone to learn. Harvard University is truly doing something remarkable for everyone across the globe, with their free open source courses. Thank you for this opportunity.
 <br></br>
 \- Mxltiply
